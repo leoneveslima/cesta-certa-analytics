@@ -1,0 +1,166 @@
+purchase_month,category,spend,items
+2025-04,Açougue,119.55,7
+2025-04,Bebidas,47.11,5
+2025-04,Enlatados,20.24,3
+2025-04,Grãos e Cereais,97.95,3
+2025-04,Higiene,172.56,5
+2025-04,Hortifrúti,41.28,7
+2025-04,Laticínios,164.1,6
+2025-04,Limpeza,10.42,1
+2025-04,Mercearia,26.99,2
+2025-04,Padaria,25.13,2
+2025-05,Açougue,62.43,3
+2025-05,Bebidas,12.69,1
+2025-05,Enlatados,17.12,1
+2025-05,Grãos e Cereais,94.61,2
+2025-05,Higiene,61.89,1
+2025-05,Hortifrúti,21.07,4
+2025-05,Laticínios,59.28,1
+2025-05,Limpeza,57.56,2
+2025-05,Mercearia,11.61,1
+2025-06,Açougue,119.84,6
+2025-06,Bebidas,40.7,4
+2025-06,Enlatados,73.46,5
+2025-06,Grãos e Cereais,15.82,2
+2025-06,Higiene,155.3,4
+2025-06,Hortifrúti,84.09,11
+2025-06,Laticínios,115.9,6
+2025-06,Limpeza,191.16,6
+2025-06,Mercearia,4.13,1
+2025-06,Padaria,24.74,2
+2025-07,Açougue,65.27,4
+2025-07,Bebidas,78.64,5
+2025-07,Enlatados,23.28,2
+2025-07,Grãos e Cereais,280.42,7
+2025-07,Higiene,158.7,3
+2025-07,Hortifrúti,78.75,8
+2025-07,Laticínios,77.49,5
+2025-07,Limpeza,151.42,2
+2025-07,Mercearia,30.56,2
+2025-07,Padaria,37.88,2
+2025-08,Açougue,17.71,1
+2025-08,Bebidas,25.84,2
+2025-08,Grãos e Cereais,264.41,6
+2025-08,Higiene,106.44,4
+2025-08,Hortifrúti,52.32,7
+2025-08,Laticínios,67.32,3
+2025-08,Mercearia,4.04,1
+2025-08,Padaria,9.52,1
+2025-09,Açougue,145.85,6
+2025-09,Bebidas,61.62,4
+2025-09,Enlatados,27.81,2
+2025-09,Grãos e Cereais,84.06,2
+2025-09,Higiene,220.1,6
+2025-09,Hortifrúti,64.84,7
+2025-09,Laticínios,148.04,6
+2025-09,Limpeza,22.22,2
+2025-09,Padaria,19.48,2
+2025-10,Açougue,64.57,3
+2025-10,Bebidas,96.51,7
+2025-10,Enlatados,4.35,1
+2025-10,Grãos e Cereais,85.12,4
+2025-10,Higiene,46.14,1
+2025-10,Hortifrúti,26.39,3
+2025-10,Laticínios,149.3,9
+2025-10,Limpeza,10.96,1
+2025-10,Mercearia,15.92,1
+2025-10,Padaria,10.07,1
+2025-11,Açougue,69.62,3
+2025-11,Bebidas,73.47,7
+2025-11,Enlatados,49.71,6
+2025-11,Grãos e Cereais,305.21,9
+2025-11,Higiene,106.04,2
+2025-11,Hortifrúti,65.57,9
+2025-11,Laticínios,147.18,6
+2025-11,Limpeza,137.05,2
+2025-11,Mercearia,3.71,1
+2025-11,Padaria,57.72,2
+2025-12,Açougue,19.93,1
+2025-12,Bebidas,34.24,3
+2025-12,Grãos e Cereais,98.87,4
+2025-12,Higiene,43.0,2
+2025-12,Hortifrúti,37.0,5
+2025-12,Laticínios,103.38,5
+2025-12,Limpeza,78.86,3
+2026-01,Açougue,18.87,1
+2026-01,Bebidas,25.86,1
+2026-01,Enlatados,9.04,1
+2026-01,Grãos e Cereais,24.95,2
+2026-01,Higiene,87.04,1
+2026-01,Hortifrúti,47.86,7
+2026-01,Laticínios,45.02,2
+2026-01,Limpeza,79.14,1
+2026-01,Padaria,47.59,2
+2026-02,Açougue,145.48,6
+2026-02,Bebidas,21.86,3
+2026-02,Enlatados,60.11,4
+2026-02,Grãos e Cereais,167.75,6
+2026-02,Higiene,125.45,3
+2026-02,Hortifrúti,52.98,6
+2026-02,Laticínios,162.15,7
+2026-02,Limpeza,264.9,8
+2026-02,Mercearia,20.67,2
+2026-02,Padaria,26.4,2
+2026-03,Açougue,58.81,3
+2026-03,Bebidas,104.55,7
+2026-03,Enlatados,56.69,4
+2026-03,Grãos e Cereais,163.5,8
+2026-03,Higiene,162.11,4
+2026-03,Hortifrúti,44.88,7
+2026-03,Laticínios,81.82,7
+2026-03,Limpeza,11.4,2
+2026-03,Mercearia,27.36,2
+2026-03,Padaria,67.05,4
+2026-04,Açougue,121.15,6
+2026-04,Bebidas,47.15,4
+2026-04,Enlatados,62.8,4
+2026-04,Grãos e Cereais,137.77,6
+2026-04,Higiene,87.13,3
+2026-04,Hortifrúti,77.92,12
+2026-04,Laticínios,167.24,10
+2026-04,Limpeza,66.79,3
+2026-04,Mercearia,24.18,3
+2026-05,Açougue,85.27,3
+2026-05,Bebidas,63.08,5
+2026-05,Grãos e Cereais,43.0,1
+2026-05,Hortifrúti,45.93,6
+2026-05,Laticínios,129.06,7
+2026-05,Limpeza,127.06,3
+2026-05,Padaria,12.7,1
+2026-06,Açougue,42.72,2
+2026-06,Bebidas,26.86,2
+2026-06,Enlatados,57.7,4
+2026-06,Grãos e Cereais,232.63,5
+2026-06,Higiene,198.83,5
+2026-06,Hortifrúti,41.46,5
+2026-06,Laticínios,88.48,5
+2026-06,Limpeza,18.24,1
+2026-06,Padaria,10.46,1
+2026-07,Açougue,97.94,4
+2026-07,Bebidas,6.87,2
+2026-07,Enlatados,39.32,2
+2026-07,Grãos e Cereais,153.7,6
+2026-07,Higiene,135.96,4
+2026-07,Hortifrúti,45.88,6
+2026-07,Laticínios,39.33,1
+2026-07,Limpeza,158.19,4
+2026-07,Padaria,72.12,3
+2026-08,Açougue,107.33,4
+2026-08,Bebidas,18.51,2
+2026-08,Enlatados,41.15,4
+2026-08,Grãos e Cereais,292.64,7
+2026-08,Higiene,64.44,1
+2026-08,Hortifrúti,65.0,7
+2026-08,Laticínios,110.14,6
+2026-08,Limpeza,6.02,1
+2026-08,Padaria,57.78,4
+2026-09,Açougue,50.99,3
+2026-09,Bebidas,98.49,5
+2026-09,Enlatados,30.1,2
+2026-09,Grãos e Cereais,197.77,8
+2026-09,Higiene,136.17,4
+2026-09,Hortifrúti,91.79,10
+2026-09,Laticínios,124.13,7
+2026-09,Limpeza,115.45,2
+2026-09,Mercearia,12.19,2
+2026-09,Padaria,39.88,1

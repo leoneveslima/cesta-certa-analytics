@@ -1,0 +1,8 @@
+test,severity,failed_rows,status,description
+01_no_duplicate_lines,error,0,ok,"cada linha (compra, nº da linha) aparece uma só vez na camada silver"
+02_items_have_product,error,0,ok,todo item válido foi associado a um produto (nenhum se perde no casamento de nomes)
+03_prices_positive,error,0,ok,nenhum preço unitário zero ou negativo chega às tabelas analíticas
+04_no_future_dates,error,0,ok,nenhuma compra com data no futuro
+05_index_base_is_100,error,0,ok,o índice de preços começa em 100 no mês-base
+06_purchase_total_matches,warn,1,alerta,"o total registrado da compra bate com a soma das linhas (tolerância R$ 0,05; itens sem preço contam como 0)"
+07_price_outliers,warn,0,ok,"preço unitário até 2,5x acima ou abaixo da média do produto (possível erro de digitação)"

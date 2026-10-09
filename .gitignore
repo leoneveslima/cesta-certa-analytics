@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+
+# Dados gerados (reproduza com: python -m cestacerta generate)
+data/raw/
+data/*.db
+
+# Dados reais do usuário: nunca versionar
+data/real/
+*.local.json
